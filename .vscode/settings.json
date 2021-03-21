@@ -1,0 +1,12 @@
+{
+    "spellright.language": [
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ],
+    "python.pythonPath": "C:\\Users\\yassine\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "jupyter.jupyterServerType": "local"
+}
